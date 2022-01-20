@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/avatar.png</file>
+        <file>image/button.png</file>
+        <file>image/button_hover.png</file>
+        <file>image/clipping_pixmap.png</file>
+    </qresource>
+    <qresource prefix="/ttf">
+        <file>font/HAR.ttf</file>
+    </qresource>
+    <qresource prefix="/ico">
+        <file>image/add-file.png</file>
+        <file>image/copy-file.png</file>
+        <file>image/cut-file.png</file>
+        <file>image/find-and-replace-file.png</file>
+        <file>image/find-file.png</file>
+        <file>image/new-file.png</file>
+        <file>image/paste-file.png</file>
+        <file>image/redo-file.png</file>
+        <file>image/save-file.png</file>
+        <file>image/undo-file.png</file>
+    </qresource>
+</RCC>
